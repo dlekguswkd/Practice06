@@ -1,6 +1,6 @@
 package com.javaex.ex03;
 
-public class Triangle extends Shape{
+public class Triangle extends Shape{	//Triangle.java (수정하지 말 것)
 	
 	private int width;
 	private int height;

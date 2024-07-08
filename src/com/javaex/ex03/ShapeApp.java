@@ -1,6 +1,6 @@
 package com.javaex.ex03;
 
-public class ShapeApp {
+public class ShapeApp {		//ShapeApp.java (수정하지 말 것)
 
 	public static void main(String[] args) {
 		
