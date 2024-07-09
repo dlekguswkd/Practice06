@@ -36,9 +36,5 @@ public class Employee extends User{
 	public void showInfo() {
 		System.out.println("#아이디: "+super.getId()+", #패스워드:"+ super.getPassword()+", #이름:"+super.getName()+", #월급:"+salary);
 	}	
-
-	
-	
-
 	
 }

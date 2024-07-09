@@ -37,7 +37,4 @@ public class Customer extends User{
 		System.out.println("#아이디: "+super.getId()+", #패스워드:"+ super.getPassword()+", #이름:"+super.getName()+", #포인트:"+point);
 	}
 		
-
-	
-
 }
