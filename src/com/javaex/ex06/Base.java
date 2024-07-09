@@ -1,6 +1,8 @@
 package com.javaex.ex06;
 
 public class Base {
+	
+	//(BaseApp 와 Base 클래스는 수정하지 않습니다.)
 
     public void service(String state) {
 

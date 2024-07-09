@@ -1,6 +1,8 @@
 package com.javaex.ex05;
 
 public class Employee {
+	
+	//(Employee 와 EmployeeApp 클래스는 수정하지 않습니다.
 
     private String name;
     private int salary;
